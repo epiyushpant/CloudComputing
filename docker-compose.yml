@@ -1,0 +1,33 @@
+version: '3.8'
+
+services:
+  userservice:
+    build:
+      context: ./UserService  # Ensure this is pointing to the correct UserService folder
+      dockerfile: Dockerfile
+    ports:
+      - "5001:80"
+    container_name: userservice
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    networks:
+      - app-network
+
+  productservice:
+    build:
+      context: ./ProductService  # Ensure this is pointing to the correct ProductService folder
+      dockerfile: Dockerfile
+    ports:
+      - "5002:80"
+    container_name: productservice
+    depends_on:
+      - userservice
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - USERSERVICE_URL=http://userservice
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
