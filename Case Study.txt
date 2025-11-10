@@ -1,0 +1,52 @@
+Read the following case studies and make presentation on your learning 
+Your presentation should highlight . 
+Brief summary of case study 
+Challenges 
+AWS Services used 
+Benefits after Cloud migration 
+
+
+
+https://aws.amazon.com/solutions/case-studies/qube-cinema/
+https://aws.amazon.com/solutions/case-studies/silverblaze-case-study/
+https://aws.amazon.com/solutions/case-studies/eos-group-case-study/
+https://aws.amazon.com/solutions/case-studies/10x-banking-case-study/
+https://aws.amazon.com/solutions/case-studies/case-study-reveleer/?did=cr_card&trk=cr_card
+
+
+
+ SN 1 6 11 16 21 
+Anughra , Manish , Sabina , Sudip , pawan 
+https://aws.amazon.com/solutions/case-studies/qube-cinema/
+
+ SN 2 7 12  17
+Ashok , Prasun , Sandesh , Sujata
+https://aws.amazon.com/solutions/case-studies/silverblaze-case-study/
+ 
+SN 3 8 13  18 
+Bhawana kc , puja , Sandhya , sumanraj giri 
+https://aws.amazon.com/solutions/case-studies/eos-group-case-study/
+
+
+SN 4 9 14  19 
+
+bhesh , ranjita , Saurav , Sumitra 
+https://aws.amazon.com/solutions/case-studies/10x-banking-case-study/
+
+ SN 5 10 15 20 
+Laxmi , roshina, shivalal, Sushmita 
+https://aws.amazon.com/solutions/case-studies/case-study-reveleer/?did=cr_card&trk=cr_card
+
+
+
+
+
+
+
+
+
+
+
+
+
+
